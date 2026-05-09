@@ -82,6 +82,4 @@ EXIT
 * Severity is from 1 to 5, where 5 is most urgent
 * The system prints status messages for success and failure cases
 
-## License
 
-No license file is present in the repository.
